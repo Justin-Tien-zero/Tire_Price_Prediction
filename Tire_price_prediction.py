@@ -75,7 +75,7 @@ columns = ['Model(車型)',
            'Tire_Width(輪胎寬度)',
            'Aspect_Rstio(扁平比)',
            'Wheel_diam(輪胎內徑)',
-           'Rating(客戶評分)'
+           'Rating(用戶評分)'
           ]
 
 df_s = pd.read_csv('df_tires.csv')
